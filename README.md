@@ -12,6 +12,14 @@ This study focuses on the disruption of the swine producers by the Covid-19 Pand
 
 **Hypothesis (H3)**: A team of swine nutritionists and veterinary resources helped to manage the oversupply of ready pigs to market at the swine farming operation under a production contract.
 
+![My Image](BAN-702-FIG-001.jpg)
+
 This study uses data from swine farmers around the country. The data collection's main goal was to explore the factors that caused the disruption of the swine producers by the Covid-19 Pandemic at the Hog Farming level.
 
 The questionnaire intends to collect the following information: (1) farm’s demographic data; (2) data on production, operation, and the number of hogs harvest per day, (3) monthly farm’s operational mode during 2020; (4) farm’s operational contract type; (5) data on each farmer’s knowledge on swine diet adjustment to reduce growth and farmer’s participation in the webinar by the swine’s industry to manage diets during the COVID-19 pandemic.
+
+![My Image](BAN-702-FIG-002.jpg)
+
+![My Image](BAN-702-FIG-003.jpg)
+
+
