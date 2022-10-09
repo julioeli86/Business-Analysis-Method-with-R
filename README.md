@@ -22,4 +22,44 @@ The questionnaire intends to collect the following information: (1) farm’s dem
 
 ![My Image](BAN-701-FIG-003.jpg)
 
+# REFERENCES
+
+•	Marchant-Forde JN, Boyle LA. COVID-19 Effects on Livestock Production: A One Welfare Issue. Front Vet Sci. 2020 Sep 30;7:585787. doi: 10.3389/fvets.2020.585787. Erratum in: Front Vet Sci. 2020 Nov 19;7:625372. PMID: 33195613; PMCID: PMC7554581. 
+
+•	WHAT THE PORK INDUSTRY LEARNED FROM THE CORONAVIRUS DEBACLE - By Betsy Freese10/12/2020, Successful Farming, www.agriculture.com 
+https://www.agriculture.com/livestock/pork-powerhouses/what-the-pork-industry-learned-from-the-coronavirus-debacle 
+
+•	THESE 15 PLANTS SLAUGHTER 59% OF ALL HOGS IN THE US 
+April, 9, 2020,  
+http://jaysonlusk.com/blog/2020/4/9/these-15-plants-slaughter-59-of-all-hogs-in-the-us 
+These 15 Plants Slaughter 59% of All Hogs in the US — Jayson Lusk 
+
+•	US hog prices fall sharply in April as COVID-19 constrains slaughter capacity 
+COVID-19: US hog prices drop as slaughter capacity is constrained - Swine news - pig333, pig to pork community 
+https://www.pig333.com/latest_swine_news/covid-19-us-hog-prices-drop-as-slaughter-capacity-is-constrained_16155/ 
+
+•	Episode 11: COVID-19 and it’s Impact on Pig Production with Dr. Beth Thompson 
+Swine Time Podcast with Pipestone, By Pipestone, Jun 16, 2020 
+https://www.pipestone.com/episode-11-covid-19-and-its-impact-on-pig-production-with-dr-beth-thompson/ 
+
+•	Episode 13: We slowed pigs down: What was the effect and where do we go from here? 
+Swine Time Podcast with Pipestone, By Pipestone, Jul 9, 2020 
+https://www.pipestone.com/episode-13-we-slowed-pigs-down-what-was-the-effect-and-where-do-we-go-from-here/ 
+
+•	Economic Information Bulletin Number (EIBN, 2018) 
+America’s Diverse Family Farms: 2018 Edition (usda.gov) 
+
+•	Marketing and Production Contracts Are Widely Used in U.S. Agriculture 
+USDA ERS - Marketing and Production Contracts Are Widely Used in U.S. Agriculture 
+
+•	Coronavirus: How the pandemic has changed the future of meat processing plants 
+Coronavirus: How the pandemic has changed the future of meat processing plants - YouTube 
+
+•	Slowing pig growth during COVID-19, models for use in future market fluctuations Mike D. Tokach, Bob D. Goodband, Joel M. DeRouchey, Jason C. Woodworth, and Jordan T. Gebhardt Department of Animal Sciences and Industry, Kansas State University, Manhattan, KS
+
+•	Partnerships Were Key When COVID-19 Struck Pork Producers | News (iastate.edu)
+https://www.extension.iastate.edu/news/partnerships-were-key-when-covid-19-struck-pork-producers The Iowa Pork Industry Center worked with industry partners to provide critical information to pork producers. September 24, 2020, 1:24 pm | Jason Ross, Chris Rademacher
+
+•	COVID-19 Effects on Livestock Production: A One Welfare Issue. Jeremy N. Marchant-Forde and Laura A.Boyle. Published: 30 September 2020, doi: 10.3389/fvets.2020.585787
+
 
