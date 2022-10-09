@@ -26,11 +26,26 @@ The case study used a [survey](https://www.surveymonkey.com/r/995CQV3) of 10 que
 
 ![My Image](BAN-701-Table1-R.jpg)
 
+Due to limited time and a lack of networking within the swine industry. The sample size is only 13 participants. However, the survey was able to help us to collect important information that compares to data available through the USDA’s Economic Research Service (ERS) which classifies USA’s Farms (EIBN, 2018).
+
+As an example, the survey was able to identify that 62% of the people who answered the survey were from Small to Midsize Family farms, See Table 2. This quantity is mirroring the distribution of farms by the value of products shown on the USDA’s Economic Research Service (ERS) (EIBN, 2018).
+
 ![My Image](BAN-701-Table2-R.jpg)
+
+According to our data analysis, we were able to accept all of the following hypotheses:
+
+The Hypothesis (H1) was accepted as the p-value of 1.315e-05 is less than the 0.10 needed for a confidence interval of 90%. In addition, as you can see in Table 3, the Oversupply variable results show that farmers agree that a variation in the number of harvest hogs lead to an increase in the inventory level during the first half of 2020 compared to the same period of 2019, (Marchant & Boyle 2020).
 
 ![My Image](BAN-701-Table3-R.jpg)
 
+As per Table 3, a total of 14 participants, or 36% of the participants agreed that disruption on the normal levels of hogs occurred during the first half of 2020.
+
+The Hypothesis (H2) was accepted as the p-value of 2.169e-06 is less than the 0.10 needed for a confidence interval of 90%.
+
+The Hypothesis (H3) was accepted as the p-value of 1.028e-05 is less than the 0.10 needed for a confidence interval of 90%. As you can see in Table 4 below, a higher percentage of participants agreed that the Hog diet played an important role in their inventory management during the early months of the COVID-19 pandemic, (Freese, 2020) & (Ep13-Pipestone, 2020).
+
 ![My Image](BAN-701-Table4-R.jpg)
+
 
 # REFERENCES
 
