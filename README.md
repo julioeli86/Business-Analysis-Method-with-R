@@ -24,6 +24,14 @@ The questionnaire intends to collect the following information: (1) farm’s dem
 
 The case study used a [survey](https://www.surveymonkey.com/r/995CQV3) of 10 questions. The [survey](https://www.surveymonkey.com/r/995CQV3) was posted using the surveymonkey.com website platform. The [survey](https://www.surveymonkey.com/r/995CQV3) was sent to a total of 46 individual farms within the United States. In addition, the [survey](https://www.surveymonkey.com/r/995CQV3) was posted to 11 Facebook Groups with a total of 64,800 members as per Facebook-provided data. The [survey](https://www.surveymonkey.com/r/995CQV3) questions were collected between April and May 2021. The online [survey](https://www.surveymonkey.com/r/995CQV3) can be accessed [here](https://www.surveymonkey.com/r/995CQV3). The ten survey questions and variable combinations can be seen below, See Table 1.
 
+![My Image](BAN-701-Table1-R.jpg)
+
+![My Image](BAN-701-Table2-R.jpg)
+
+![My Image](BAN-701-Table3-R.jpg)
+
+![My Image](BAN-701-Table4-R.jpg)
+
 # REFERENCES
 
 •	Marchant-Forde JN, Boyle LA. COVID-19 Effects on Livestock Production: A One Welfare Issue. Front Vet Sci. 2020 Sep 30;7:585787. doi: 10.3389/fvets.2020.585787. Erratum in: Front Vet Sci. 2020 Nov 19;7:625372. PMID: 33195613; PMCID: PMC7554581. 
