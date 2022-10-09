@@ -34,7 +34,7 @@ As an example, the survey was able to identify that 62% of the people who answer
 
 According to our data analysis, we were able to accept all of the following hypotheses:
 
-The Hypothesis (H1) was accepted as the p-value of 1.315e-05 is less than the 0.10 needed for a confidence interval of 90%. The code used to calculate Hypothesis (H1) values can be found here: [Mod_13_Part2_Analysis_Hypothesis_H1](Code/Mod_13_Part2_Analysis_Hypothesis_H1.R) In addition, as you can see in Table 3, the Oversupply variable results show that farmers agree that a variation in the number of harvest hogs lead to an increase in the inventory level during the first half of 2020 compared to the same period of 2019, (Marchant & Boyle 2020).
+The Hypothesis (H1) was accepted as the p-value of 1.315e-05 is less than the 0.10 needed for a confidence interval of 90%. The code used to calculate Hypothesis (H1) values can be found here: [Mod_13_Part2_Analysis_Hypothesis_H1](Code/Mod_13_Part_2_Analysis_Hypothesis_H1.R) In addition, as you can see in Table 3, the Oversupply variable results show that farmers agree that a variation in the number of harvest hogs lead to an increase in the inventory level during the first half of 2020 compared to the same period of 2019, (Marchant & Boyle 2020).
 
 ![My Image](BAN-701-Table3-R.jpg)
 
